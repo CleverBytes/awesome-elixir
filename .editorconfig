@@ -12,3 +12,4 @@ charset = utf-8
 
 [{!*.md,!*.markdown}]
 trim_trailing_whitespace = true
+//un-fill - top-most EditorConfig file 
